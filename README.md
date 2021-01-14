@@ -1,16 +1,14 @@
-Package Name Here
-===================================
+Node Perlin Noise Generator
+===========================
 
-![CI](https://github.com/renoki-co/~git_package_name~/workflows/CI/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/renoki-co/~git_package_name~/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-co/~git_package_name~/branch/master)
+![CI](https://github.com/renoki-co/node-perlin-noise/workflows/CI/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/renoki-co/node-perlin-noise/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-co/node-perlin-noise/branch/master)
 [![StyleCI](https://github.styleci.io/repos/~styleci_code~/shield?branch=master)](https://github.styleci.io/repos/~styleci_code~)
-[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-co/~git_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
-[![Total Downloads](https://img.shields.io/npm/dt/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
-[![License](https://img.shields.io/npm/l/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
+[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-co/node-perlin-noise)](https://www.npmjs.com/package/@renoki-co/node-perlin-noise)
+[![Total Downloads](https://img.shields.io/npm/dt/@renoki-co/node-perlin-noise)](https://www.npmjs.com/package/@renoki-co/node-perlin-noise)
+[![License](https://img.shields.io/npm/l/@renoki-co/node-perlin-noise)](https://www.npmjs.com/package/@renoki-co/node-perlin-noise)
 
-**Note:** Replace  ```~git_package_name~``` ```~npm_package_name~``` ```~package_description~``` ```~styleci_code~``` with their correct values in [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE) and [composer.json](composer.json) files, then delete this line.
-
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+Perlin & Simplex Noise generation written for Node, with HTTP API support.
 
 ## 🤝 Supporting
 
@@ -25,13 +23,13 @@ If you are using your application in your day-to-day job, on presentation demos,
 You can install the package via composer:
 
 ```bash
-npm install ~npm_package_name~
+npm install @renoki-co/node-perlin-noise
 ```
 
 ## 🙌 Usage
 
 ```js
-const package = require('~npm_package_name~');
+const package = require('@renoki-co/node-perlin-noise');
 
 //
 ```
