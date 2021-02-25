@@ -1,7 +1,7 @@
 import { Biome } from './biome';
 import { MoistureMap } from './moisture-map';
 import { NoiseLimits } from './noise-limits';
-import { Simplex } from '@renoki-co/node-simplex';
+import { Simplex } from '@renoki-games/node-simplex';
 
 export class NoiseMap {
     /**

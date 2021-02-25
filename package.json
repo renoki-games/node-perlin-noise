@@ -1,5 +1,5 @@
 {
-  "name": "@renoki-co/node-perlin-noise",
+  "name": "@renoki-games/node-perlin-noise",
   "version": "1.0.0",
   "description": "Perlin & Simplex Noise generation written for Node, with HTTP API support.",
   "keywords": [
@@ -8,11 +8,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/renoki-co/node-perlin-noise.git"
+    "url": "https://github.com/renoki-games/node-perlin-noise.git"
   },
   "author": "Alex Renoki",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/renoki-co/node-perlin-noise.git",
+  "homepage": "https://github.com/renoki-games/node-perlin-noise.git",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "engines": {
